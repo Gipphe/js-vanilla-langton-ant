@@ -1,0 +1,16 @@
+{
+	"name": "js-vanilla-langton-ant",
+	"version": "0.1.0",
+	"author": "Victor Nascimento Bakke",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Gipphe/js-vanilla-langton-ant.git"
+	},
+	"license": "MIT",
+	"scripts": {
+		"start": "servedir"
+	},
+	"dependencies": {
+		"servedir": "^1.0.1"
+	}
+}
